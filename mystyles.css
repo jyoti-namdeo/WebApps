@@ -1,0 +1,106 @@
+
+a:hover {
+	font-weight:bold;
+	
+}
+
+.anchorhead{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.anchorhead1{
+	color: #FFFFFF;
+	
+}
+#headbg
+{
+ background: url("3Cheese500.jpg");
+ height: 50px;
+ width:400px;
+}
+
+#input
+{
+
+    font-size: 24px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    height: 50px;
+    width: 200px;
+}
+.head{
+		background-color:rgba(0,0,0,0.7) ;
+	 /*background: #799AC0;*/
+		color: #FFFFFF;
+
+ }
+ .head:hover{
+	 background: #4076AB;
+ }
+ 
+ table,th, td{
+	 
+
+	 
+ }
+ 
+ .table2{
+	background: #F78181;
+	
+ }
+	
+ .table2:hover{
+	background:#FA5858;
+
+	
+ }
+ .table3{
+	 background: #F78181;
+ }
+ .table3:hover{
+	background:#FA5858;
+ }
+ .footer1{
+	
+	color: #FFFFFF;
+ }
+#frame{
+ width: 1400px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin:0 auto;
+}
+#progressbar {
+  background-color: black;
+  border-radius: 13px; 
+  padding: 3px;
+}
+
+#progressbar > div {
+   background-color: orange;
+   width: 40%; 
+   height: 20px;
+   border-radius: 10px;
+}
+#lower1{
+ 
+ width:350px;
+ height: 300px;
+ background-image: url("create-your-own.jpg");
+}
+#lower2{
+ width:600px;
+ background-image: url("img-freehome.jpg");
+ background-color: #4076AB;
+}
+#lower3{
+ background-color: #FA5858;
+ width:320px ;
+ background-image: url("Pizza-Deals_image.png");
+}
+ th,td{
+	 padding:8px;
+ }
